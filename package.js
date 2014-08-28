@@ -1,7 +1,8 @@
 Package.describe({
   name: 'ian:bootstrap-3-theme',
   summary: 'The Bootstrap Theme from Bootstrap 3.2',
-  version: '1.0.0'
+  version: '1.0.0',
+  git: "https://github.com/ianmartorell/meteor-bootstrap-3-theme"
 });
 
 Package.on_use(function (api) {
