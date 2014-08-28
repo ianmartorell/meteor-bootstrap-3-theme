@@ -8,7 +8,7 @@ Package.describe({
 Package.on_use(function (api) {
   api.use('jquery@1.0.0');
 
-  api.add_files('css/bootstrap.min.css', 'client');
+  api.add_files('css/bootstrap-theme.min.css', 'client');
   api.add_files('js/bootstrap.min.js', 'client');
 
   // Fonts
