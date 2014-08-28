@@ -1,6 +1,10 @@
 {
   "dependencies": [
     [
+      "ian:bootstrap-3",
+      "1.0.2"
+    ],
+    [
       "jquery",
       "1.0.0"
     ],
