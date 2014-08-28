@@ -1,7 +1,7 @@
-Meteor Bootstrap-3
+Meteor bootstrap-3-theme
 ==================
 
-[Bootstrap 3.2](http://getbootstrap.com) packaged for [Meteor](http://meteor.com).
+Add this package to use the Bootstrap Theme from [Bootstrap 3.2](http://getbootstrap.com) on your [Meteor](http://meteor.com) app.
 
 
 ### Installation
@@ -9,5 +9,7 @@ Meteor Bootstrap-3
 With Meteor 0.9:
 
 ```sh
-$ meteor add ian:bootstrap-3
+$ meteor add ian:bootstrap-3-theme
 ```
+
+Look [here](https://github.com/ianmartorell/meteor-bootstrap-3) for the non-theme version of Bootstrap 3 for Meteor.
