@@ -1,7 +1,7 @@
 Meteor bootstrap-3-theme
 ==================
 
-Add this package to use the Bootstrap Theme from [Bootstrap 3.2](http://getbootstrap.com) on your [Meteor](http://meteor.com) app.
+Provides the Bootstrap Theme from [Bootstrap 3.2](http://getbootstrap.com) on your [Meteor](http://meteor.com) app.
 
 
 ### Installation
