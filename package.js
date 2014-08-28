@@ -1,6 +1,7 @@
 Package.describe({
-  summary: 'Provides bootstrap 3.2',
-  version: '1.0.1'
+  name: 'ian:bootstrap-3-theme',
+  summary: 'The Bootstrap Theme from Bootstrap 3.2',
+  version: '1.0.0'
 });
 
 Package.on_use(function (api) {
